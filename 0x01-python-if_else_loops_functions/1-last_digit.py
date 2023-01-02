@@ -1,4 +1,4 @@
-#!/us/bin/python3
+#!/usr/bin/python3
 import random
 number = random.randit(-10000, 10000)
 tempNum = number
